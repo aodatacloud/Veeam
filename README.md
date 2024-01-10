@@ -8,3 +8,6 @@ Permitirá la creación de copias de seguridad en la nube y la recuperación lim
 - Permite enviar las copias de seguridad a tu propio servidor, ya sea local o en la nube.
 - Evitar eliminación accidental/maliciosa de backups mediante una arquitectura zero-trust (de confianza cero), una protección de administración que sigue el principio de "cuatro ojos" y backups inmutables.
 - Motor integrado de detección de malware con inteligencia artificial que realiza un análisis de entropía y extensiones de archivo durante el backup para detectar rápidamente las amenazas.
+
+## Autor
+AO Data Cloud - [www.aodatacloud.es](aodatacloud.es) - [Veeam Backup: Recuperación de datos](https://aodatacloud.es/servicios-ciberseguridad/servicio-backup-empresas/veeam-backup/)
